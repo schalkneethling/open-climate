@@ -1,0 +1,30 @@
+name: "New resource"
+description: Propose a new resource, tool, community, or initiative, or talks.
+labels: ["needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Before you start
+
+        Please take a moment to consider and do some research before proposing anything. If you are unsure of the authenticity,
+        feel free to first start a discussion on [Discord](https://discord.gg/Ty3RytTxCR).
+
+        ---
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: Link to the resource you wish to add.
+    validations:
+      required: true
+  - type: textarea
+    id: rational
+    attributes:
+      label: Why do you believe this to be a good resource?
+     validations:
+      required: true
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Any additional information you want to share?
