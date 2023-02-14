@@ -22,8 +22,8 @@ body:
     id: rational
     attributes:
       label: Why do you believe this to be a good resource?
-     validations:
-      required: true
+    validations:
+     required: true
   - type: textarea
     id: additional_info
     attributes:
