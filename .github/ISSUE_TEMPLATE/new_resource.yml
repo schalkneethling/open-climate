@@ -19,6 +19,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: shortdesc
+    attributes:
+      label: Add a short description of the resource.
+    validations:
+     required: true
+  - type: textarea
     id: rational
     attributes:
       label: Why do you believe this to be a good resource?
