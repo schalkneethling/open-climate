@@ -21,7 +21,7 @@ body:
   - type: textarea
     id: shortdesc
     attributes:
-      label: Add a short description of the resource.
+      label: Add a short description for the resource.
     validations:
      required: true
   - type: textarea
