@@ -3,7 +3,7 @@
 
 # open-climate
 
-A resource for climate activists of all ages. Resources, projects, and initiatives that have been vetted by those active in open science and climate action. We want to acknowledge the problems, but focus on solutions.
+A resource for climate activists of all ages. Resources, projects, and initiatives that have been vetted by those active in open science and climate action. We want to acknowledge the problems, but focus on solutions. In all interactions, please adhere to our [code of conduct](CODE_OF_CONDUCT.md)
 
 ## Contributing
 
