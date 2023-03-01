@@ -21,6 +21,18 @@ The Carbon Almanac is a powerful tool to help us create change, right here and r
 
 [Read more about the carbon almanac](https://thecarbonalmanac.org/)
 
+### All We Can Save
+
+Our mission: To nurture the leaderful climate community we need for a life-giving future. Are you hungry for deeper dialogue about the climate crisis and building community around solutions? We are too. That’s why we created All We Can Save Circles — like a book club, but a cooler, deeper, extended version. Let’s strengthen the “we” in All We Can Save. Circles were created by Dr. Katharine Wilkinson.
+
+[Read more about All We Can Save](https://www.allwecansave.earth/)
+
+### Project Drawdown
+
+Our mission is to help the world reach “drawdown”—the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby halting catastrophic climate change—as quickly, safely, and equitably as possible.
+
+[Read more about Project Drawdown](https://drawdown.org/)
+
 ## Tools
 
 ### Ecosia
